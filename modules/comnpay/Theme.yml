@@ -1,0 +1,12 @@
+name: comnpay # The name must match the directory name
+display_name: ComNpay
+version: 2.0.0
+theme_key: 7daffdb3008980c4393c94e13e02fd29 # Needed by PrestaShop Addons
+author:
+  name: "Afone"
+  email: "prestashop@comnpay.com"
+  url: "http://www.afone.com"
+meta:
+  compatibility:
+      from: 1.7.0.0
+      to: ~

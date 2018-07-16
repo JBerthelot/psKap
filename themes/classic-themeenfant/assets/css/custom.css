@@ -1,0 +1,141 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+
+ html
+{
+    width: 100%;
+}
+
+body
+{
+    width: 100%;
+}
+
+header
+{
+    width: 100%;
+}
+#wrapper
+{
+    width: 100%;
+}
+
+.container
+{
+    width: 100%;
+} 
+
+#contact-link
+{
+    font-size: large;
+    text-align: left;
+}
+
+#_desktop_top_menu
+{
+    
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    width: 100%;
+       
+
+}
+
+#top_sub_menu_84430
+{
+    margin-left: 10%;
+    width: 90%;
+}
+
+.row
+{
+    
+    text-align: center;
+      
+}
+
+#clearfix
+{
+    border-top: 1em solid rgb(238, 238, 238);
+    
+}
+
+.menu-images-container
+{
+    margin-left: 4em;
+    margin-right: 4em;
+}
+
+#carousel
+{
+    height: 600px;
+    width: 80%;
+    margin-left: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.carousel .carousel-inner
+{
+    height: 600px;
+    
+}
+
+#socialblock
+{
+    display: flex;
+    justify-content: center;
+}
+
+#en-tete
+{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+}
+/* fiche produit*/
+
+/*détails produits*/
+#details-produits
+{
+    text-align: left;
+}
+
+.product-information
+{
+    text-align: left;
+}
+
+.product-actions .control-label
+{
+    font-size: 1.25rem;
+    margin-bottom: 0.8rem;
+    display: block;
+    width: 100%;
+}
+
+/* product-prices.tpl */
+#prix
+{
+    display: flex;
+}
+
+.current-price
+{
+    font-size: 1.05rem;
+}
+
+.product-prices
+{
+    display: flex;
+}
+#TTC
+{
+    font-size: 1.05rem;
+    margin-left: 1rem;
+}

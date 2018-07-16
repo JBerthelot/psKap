@@ -1,0 +1,50 @@
+ 
+
+Bonjour Service Clients AFONEPAIEMENT, 
+
+
+
+.:: Nouvelle souscription via Prestashop pour ComNpay ::.
+
+
+
+
+
+{compteAFP}
+
+Nom : {lastname}
+
+Prenom : {firstname}
+
+Email : {email}
+
+Telephone : {telephone}
+
+Raison : {raison}
+
+Site Web : {url_website}
+
+Forme juridique : {forme_juridique}
+
+Secteur : {secteur}
+
+Siret : {siret}
+
+Adresse : {adresse}
+
+Code postal : {code_postal}
+
+Ville : {ville}
+
+
+
+
+
+Cordialement,
+
+Mail envoyé via le site Prestashop {shop_url}
+
+
+
+
+

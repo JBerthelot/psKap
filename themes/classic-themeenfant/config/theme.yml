@@ -1,0 +1,6 @@
+parent: classic
+name: classic-themeenfant
+display_name: Mon très beau et joli thème enfant
+version: 1.0.0
+assets:
+ use_parent_assets: true

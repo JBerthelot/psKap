@@ -1,0 +1,74 @@
+#body {
+  
+ }
+
+#layout-error {
+  
+  text-align: center;
+  margin: 50px 0 0 0;
+  
+}
+
+html
+{
+  background-image: url("../../../../img/fond.jpg");
+  background-repeat: no-repeat;
+  background-position: 25% 15%;
+  background-size: 100%;
+
+}
+
+#main
+{
+  margin-left: 20%;
+  margin-right: 20%;
+  border: 2px solid black;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.page-header
+{
+  margin-top: 5%;
+}
+
+@media (min-width: 1200px) {
+  #layout-error {
+    margin: 126px 0 0 0;
+    padding: 50px; }
+   }
+#layout-error .logo {
+  margin: 0 0 31px 0;
+  text-align: center; }
+#layout-error h1 {
+  font: 24px sans-serif;
+  color: black;
+  padding: 0 0 14px 0;
+  margin: 0 0 19px 0; }
+#layout-error h2 {
+  font: 24px sans-serif;
+  color: black;
+  padding: 0 0 14px 0;
+  margin: 0 0 19px 0; }
+#layout-error .page-content {
+  font: 24px sans-serif;
+  color: black;
+  text-align: center; }
+
+#layout-error {
+  padding: 50px 15px;
+  margin-right: auto;
+  margin-left: auto; }
+
+@media (min-width: 768px) {
+  #layout-error {
+    width: 100vw; } }
+@media (min-width: 992px) {
+  #layout-error {
+    width: 100vw; } }
+@media (min-width: 1200px) {
+  #layout-error {
+    width: 100vw; } }
+@media only screen and (min-width: 1200px) {
+  #layout-error {
+    padding-left: 0;
+    padding-right: 0; } }

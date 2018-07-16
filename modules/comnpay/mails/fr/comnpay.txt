@@ -1,0 +1,30 @@
+[{shop_url}] Bonjour {firstname} {lastname}, Confirmation de votre inscription à ComNpay
+
+Nous avons bien pris en compte votre inscription à ComNpay via PrestaShop et nous vous en remercions.
+Nous sommes très heureux de vous accueillir parmi notre fidèle clientèle.
+Pour finaliser votre inscription, notre Service Clients va vous contacter pour compléter votre dossier si nécessaire et vous transmettre les informations nécessaires pour accéder et configurer votre module ComNpay. Nous nous engageons à vous contacter sous 2 jours ouvrés après votre inscription.
+Une fois le compte valide, vous pourrez accéder à votre espace personnel ComNpay via le lien suivant : https://www.afonepaiement.com/portail/
+Lorsque votre compte sera validé par nos services, les montants encaissés pourront être versés sur votre compte bancaire professionnel.
+Nous tenons à vous rappeler que la création de votre compte est sans engagement de votre part.
+L’installation du module ComNpay sur votre site e-commerce PrestaShop vous permet de bénéficier d’une offre spécifique très avantageuse :
+
+Taux de commission par transaction :
+
+ - Cartes CB France : 0,90% + 0,20 €
+ - Cartes Étrangères : 2,30% + 0,20 €
+ - Les frais de 3D Secure sont inclus.
+ - Un virement hebdomadaire des montants encaissés sur votre compte bancaire professionnel chaque mardi. En cas de besoin, vous pouvez demander un demander un versement quotidien en contactant notre Service Clients avec des frais supplémentaires de 0,15 € par virement.
+
+Si vous avez des questions sur la création de votre compte, votre souscription ou le fonctionnement général de ComNpay, contactez notre Service Clients :
+
+ - Téléphone : 0825 130 031
+ - E-mail : service-clients@afonepaiement.com
+
+Pour les questions techniques, merci de contacter notre service dédié : technique@comnpay.com
+Nous espérons vous avoir fourni toutes les informations nécessaires sur l’utilisation de ComNpay avec votre site e-commerce.
+La qualité du service et la satisfaction de nos clients étant un axe important de notre approche, nous allons vous adresser dans les prochains jours une enquête où vous pourrez évaluer ComNpay et exprimer toutes vos remarques. Nous vous remercions par avance de répondre et nous apporter votre feedback.
+Nous restons à votre disposition pour tout renseignement complémentaire.
+
+Cordialement,
+
+L’équipe ComNpay

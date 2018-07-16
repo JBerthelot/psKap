@@ -1,0 +1,28 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+html
+{
+    width: 100vw;
+}
+
+body
+{
+    width: 100vw;
+}
+
+header
+{
+    width: 100vw;
+}
+#wrapper
+{
+    width: 100vw;
+}
+
+.container
+{
+    width: 100vw;
+}
+
